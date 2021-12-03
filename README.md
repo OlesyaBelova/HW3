@@ -9,3 +9,17 @@ SRR3414637 | control | 20385570 | 19847391 | 97,36 | 17844858 | 87,54 | 15736978
 SRR3414629 | reprogrammed | 21106089 | 20510113 | 97,17 | 18375888 | 87,06 | 16049609  
 SRR3414630 | reprogrammed | 15244711 | 14832680 | 97,3 | 13186139	| 86,5 | 11465324  
 SRR3414631 | reprogrammed | 24244069 | 23547686 | 97,13 | 20928945 | 86,33 | 18408851  
+  
+Результаты проверок FastQC:
+SRR3414629
+![](Pictures/29qual.png)
+SRR3414630
+![](Pictures/30qual.png)
+SRR3414631
+![](Pictures/31qual.png)
+SRR3414635
+![](Pictures/35qual.png)
+SRR3414636
+![](Pictures/36qual.png)
+SRR3414637
+![](Pictures/37qual.png)
