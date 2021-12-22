@@ -1,6 +1,6 @@
 # hse21_hw3
-Ссылка на первую часть задания: https://colab.research.google.com/drive/1hV1q4tGtv-PgT5a6Wn2UEn9MGnLufYbq#scrollTo=0rITzFvF64kt  
-Ссылка на вторую часть задания: https://colab.research.google.com/drive/1qHSfgHSB95JEEnqlI0K5mZ8N0-jTu-4O#scrollTo=zvgGWwavrhYB  
+Ссылка на первую часть задания: https://colab.research.google.com/drive/1hV1q4tGtv-PgT5a6Wn2UEn9MGnLufYbq?usp=sharing  
+Ссылка на вторую часть задания: https://colab.research.google.com/drive/1qHSfgHSB95JEEnqlI0K5mZ8N0-jTu-4O?usp=sharing 
   
 Таблица  
 ID | Тип | Исходных чтений | Успешно откартированных чтений | Успешно откартированных чтений (%) | Уникально откартированных чтений | Уникально откартированных чтений (%) | Чтений, попавших на гены  
